@@ -10,10 +10,8 @@ title: OwlBox @ KSU
 email: bkihei@kennesaw.edu
 description: > # this means to ignore newlines until "baseurl:"
   An open-source V2X OBU/RSU for intelligent transportation systems.
-baseurl: ""
-url: ""
-#baseurl: "/owlbox"
-#url: "https://intelligent-mobile-device-lab-at-ksu.github.io"
+baseurl: "/owlbox"
+url: "https://intelligent-mobile-device-lab-at-ksu.github.io"
 include:
   - .htaccess
   - _pages
