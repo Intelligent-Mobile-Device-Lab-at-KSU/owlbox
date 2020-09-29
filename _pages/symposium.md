@@ -1,35 +1,13 @@
 ---
-title: "IMDL - Symposium of Student Scholars"
-layout: textlay
-excerpt: "Our Scholars"
+title: "OwlBox - Software"
+layout: gridlay
+excerpt: "OwlBox: Software"
 sitemap: false
-permalink: /symposium/
+permalink: /team/
 ---
-# Our Scholars
 
-Our wonderful researchers got the opportunity to virtually present Kennesaw State University's Annual Symposium of Student Scholars.
+## Operating System
 
-### Marquis Brown and Hakeem Wilson
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/marquis.jpg" width="95%">
-</figure>
+## V2X Applications
 
-### Trevor Stanca
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/trevor.jpg" width="95%">
-</figure>
-
-### Aya Alazzawi, JiWoo Park, and Ian Ross
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/aya.jpg" width="95%">
-</figure>
-
-### Hakeem Wilson and Muhamed Fall
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/hakeem.jpg" width="95%">
-</figure>
-
-### Adeyemi Fagbemi
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/symposium/adeyemi.jpg" width="95%">
-</figure>
+## Code Base
