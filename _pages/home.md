@@ -42,4 +42,3 @@ Our aim is to explore and improve connected vehicles, by providing open-source h
 </div>
 
 We are located in the [Department of Electrical and Computer Engineering](https://engineering.kennesaw.edu/electrical-computer/) at [Kennesaw State University](https://www.kennesaw.edu/), in the [Southern Polytechnic College of Engineering and Engineering Technology](https://engineering.kennesaw.edu/)
-We are grateful for grants from Office of Undergraduate Research, [OUR](https://research.kennesaw.edu/our/) and our sponsors.
