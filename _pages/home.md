@@ -41,5 +41,9 @@ OwlBox enables an organization to have wide-spread Vehicle-to-Everything communi
     <span class="sr-only">Next</span>
   </a>
 </div>
+<div>
+Every country has laws governing the transmission and reception of radio signals. Users of an OwlBox are solely responsible for insuring they use their OwlBox when configured for 5.9GHz spectrum to be in compliance with all applicable laws and regulations. Before attempting to transmit and/or receive on any 5.9GHz frequency, we recommend that you determine what licenses may be required and what restrictions may apply.
 
+NOTE: This OwlBox is not a product. OwlBox when assembled is a computer. OwlBox when configured by the user for 5.9GHz spectrum is a piece of test equipment.
+ </div>
 We are located in the [Department of Electrical and Computer Engineering](https://engineering.kennesaw.edu/electrical-computer/) at [Kennesaw State University](https://www.kennesaw.edu/), in the [Southern Polytechnic College of Engineering and Engineering Technology](https://engineering.kennesaw.edu/)
