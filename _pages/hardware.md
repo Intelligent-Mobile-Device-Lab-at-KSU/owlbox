@@ -3,7 +3,7 @@ title: "OwlBox - Hardware"
 layout: gridlay
 excerpt: "OwlBox: Hardware"
 sitemap: false
-permalink: /team/
+permalink: /hardware/
 ---
 
 ## Compute
