@@ -3,7 +3,7 @@ title: "OwlBox - Software"
 layout: gridlay
 excerpt: "OwlBox: Software"
 sitemap: false
-permalink: /team/
+permalink: /software/
 ---
 
 ## Operating System
