@@ -7,7 +7,8 @@ permalink: /
 ---
 
 The OwlBox is aimed at making transportation safer through transparency and accesibility. 
-Our aim is to explore and improve connected vehicles, by providing open-source hardware and software, enabling the ability to have wide-spread Vehicle-to-Everything communications. 
+Organizations use OwlBox to improve connected vehicles by using our open-source hardware and software. 
+OwlBox enables an organization to have wide-spread Vehicle-to-Everything communications, for a very low-cost. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
