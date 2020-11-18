@@ -3,7 +3,7 @@ title: "OwlBox - FAQ"
 layout: gridlay
 excerpt: "OwlBox: FAQ"
 sitemap: false
-permalink: /team/
+permalink: /faq/
 ---
 
 ## Is OwlBox Legal?
